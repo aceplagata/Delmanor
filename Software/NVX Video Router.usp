@@ -1,0 +1,73 @@
+/*******************************************************************************************
+  SIMPL+ Module Information
+  (Fill in comments below)
+*******************************************************************************************/
+/*
+Dealer Name:
+System Name:
+System Number:
+Programmer:			Stewart Yates
+Comments:
+*/
+
+/*******************************************************************************************
+  Compiler Directives
+*******************************************************************************************/
+#DEFINE_CONSTANT		cNumbIO	32
+
+#DEFAULT_VOLATILE
+#ENABLE_STACK_CHECKING
+#ENABLE_TRACE
+#PRINT_TO_TRACE
+
+/*******************************************************************************************
+  DIGITAL, ANALOG and SERIAL INPUTS and OUTPUTS
+*******************************************************************************************/ 
+ANALOG_INPUT 	ROUTE[cNumbIO];
+
+STRING_INPUT 	_SKIP_,
+				STREAM_LOCATION[cNumbIO][256];
+
+
+// OUTPUTS
+ANALOG_OUTPUT 	ROUTE_FB[cNumbIO];
+
+STRING_OUTPUT 	_SKIP_,
+				STREAM_SET[cNumbIO]; 
+
+/*******************************************************************************************
+  Event Handlers
+******************************************cNumbIO*************************************************/
+CHANGE ROUTE {
+	INTEGER Y;
+	FOR(Y = 1 TO cNumbIO){
+		IF(ROUTE_FB[Y] != ROUTE[Y]){
+	    	ROUTE_FB[Y] = ROUTE[Y];
+			IF(ROUTE[Y]){
+				STREAM_SET[Y] = STREAM_LOCATION[ROUTE[Y]];
+			}
+			ELSE {
+				STREAM_SET[Y] = "";
+			}
+		}
+	}
+}
+
+CHANGE STREAM_LOCATION {
+	INTEGER Y;
+	FOR(Y = 1 TO cNumbIO){
+		IF(ROUTE[Y]){
+			STREAM_SET[Y] = STREAM_LOCATION[ROUTE[Y]];
+		}
+		ELSE{
+			STREAM_SET[Y] = "";
+		}
+		
+	}
+}
+/*******************************************************************************************
+  Main()
+*******************************************************************************************/
+Function Main(){
+    WaitForInitializationComplete();
+}

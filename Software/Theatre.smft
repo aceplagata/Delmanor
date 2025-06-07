@@ -1,0 +1,9 @@
+<Device Model="RMC4">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-1070" DeviceId="03"/>
+      <Device Model="TSR-310" DeviceId="04"/>
+      <Device Model="HD-MD6X2-4K-E" DeviceId="05"/>
+      <Device Model="DSP-860" DeviceId="06"/>
+   </Network>
+</Device>
