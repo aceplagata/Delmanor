@@ -549,13 +549,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=THEATRE UI.1_007.Appletv_DPad DVD.ced
-Hint=DPad DVD (Smart Object ID=15)
+Name=THEATRE UI.1_007.Appletv_DPad APPLETV.ced
+Hint=DPad APPLETV (Smart Object ID=15)
 Code=7
 SGControlType=DPad
-SGControlName=DPad DVD
+SGControlName=DPad APPLETV
 GUID=50473826-4C09-46E3-877B-2F50FA285675
-SmplCName=THEATRE UI.1_007.Appletv_DPad DVD.ced
+SmplCName=THEATRE UI.1_007.Appletv_DPad APPLETV.ced
 SMWRev=4.02.19
 Expand=expand_random
 HelpID=10015
@@ -618,7 +618,7 @@ Sgn=0
 [
 ObjTp=CED
 H=7
-Name=THEATRE UI.1_007.Appletv_DPad DVD.ced
+Name=THEATRE UI.1_007.Appletv_DPad APPLETV.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
