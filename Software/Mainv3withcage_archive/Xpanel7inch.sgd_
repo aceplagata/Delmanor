@@ -1,0 +1,5295 @@
+[
+ObjTp=FSgntr
+Sgntr=SGD
+RelVrs=3
+VTProeVer=6.2.02
+Schema=1
+CRCGUID=EB43974D-2F45-44EF-B21E-7D34BEB36C8C
+]
+;================================================================================
+[
+ObjTp=Hd
+ProjectFile=Xpanel7inch.vtp
+VtpGuid=E156504C-89B1-43B1-9DCD-1C87E25082E3
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 11).ced
+Hint=1281 (Device 11) (Smart Object ID=21)
+Code=1
+SGControlType=TSW-770
+SGControlName=1281 (Device 11)
+GUID=76315618-20D4-4E04-BF1A-B99C99E603B5
+SmplCName=Xpanel7inch_1281 (Device 11).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=1
+CedH=1
+SmartObjId=21d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=1
+Tp=1
+HD=TRUE
+DV=21d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=1
+Name=Xpanel7inch_1281 (Device 11).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 10).ced
+Hint=1281 (Device 10) (Smart Object ID=19)
+Code=2
+SGControlType=TSW-770
+SGControlName=1281 (Device 10)
+GUID=A9245F9E-413E-4121-94B1-B7379BE40837
+SmplCName=Xpanel7inch_1281 (Device 10).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=2
+CedH=2
+SmartObjId=19d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=2
+Tp=1
+HD=TRUE
+DV=19d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=2
+Name=Xpanel7inch_1281 (Device 10).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 9).ced
+Hint=1281 (Device 9) (Smart Object ID=16)
+Code=3
+SGControlType=TSW-770
+SGControlName=1281 (Device 9)
+GUID=B837228B-2076-48AC-B7D9-3A9D16786DEC
+SmplCName=Xpanel7inch_1281 (Device 9).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=3
+CedH=3
+SmartObjId=16d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=3
+Tp=1
+HD=TRUE
+DV=16d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=3
+Name=Xpanel7inch_1281 (Device 9).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 8).ced
+Hint=1281 (Device 8) (Smart Object ID=9)
+Code=4
+SGControlType=TSW-770
+SGControlName=1281 (Device 8)
+GUID=91253DF2-1D08-4FA9-9EEF-2FB42C20F57F
+SmplCName=Xpanel7inch_1281 (Device 8).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=4
+CedH=4
+SmartObjId=9d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=4
+Tp=1
+HD=TRUE
+DV=9d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=4
+Name=Xpanel7inch_1281 (Device 8).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 7).ced
+Hint=1281 (Device 7) (Smart Object ID=8)
+Code=5
+SGControlType=TSW-770
+SGControlName=1281 (Device 7)
+GUID=67D35EB1-61F5-4E2A-95A3-25266E64D634
+SmplCName=Xpanel7inch_1281 (Device 7).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=5
+CedH=5
+SmartObjId=8d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=5
+Tp=1
+HD=TRUE
+DV=8d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=5
+Name=Xpanel7inch_1281 (Device 7).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 6).ced
+Hint=1281 (Device 6) (Smart Object ID=7)
+Code=6
+SGControlType=TSW-770
+SGControlName=1281 (Device 6)
+GUID=1BD8F967-D56C-416C-AD38-9B2EE8764774
+SmplCName=Xpanel7inch_1281 (Device 6).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=6
+CedH=6
+SmartObjId=7d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=6
+Tp=1
+HD=TRUE
+DV=7d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=6
+Name=Xpanel7inch_1281 (Device 6).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 5).ced
+Hint=1281 (Device 5) (Smart Object ID=6)
+Code=7
+SGControlType=TSW-770
+SGControlName=1281 (Device 5)
+GUID=7D5A43F8-E662-43C0-91CF-C6C26BB0991E
+SmplCName=Xpanel7inch_1281 (Device 5).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=7
+CedH=7
+SmartObjId=6d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=7
+Tp=1
+HD=TRUE
+DV=6d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=7
+Name=Xpanel7inch_1281 (Device 5).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 4).ced
+Hint=1281 (Device 4) (Smart Object ID=4)
+Code=8
+SGControlType=TSW-770
+SGControlName=1281 (Device 4)
+GUID=69CA01F0-3372-4B4E-ACB9-EDC3A0487FB5
+SmplCName=Xpanel7inch_1281 (Device 4).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=8
+CedH=8
+SmartObjId=4d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=8
+Tp=1
+HD=TRUE
+DV=4d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=8
+Name=Xpanel7inch_1281 (Device 4).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 3).ced
+Hint=1281 (Device 3) (Smart Object ID=3)
+Code=9
+SGControlType=TSW-770
+SGControlName=1281 (Device 3)
+GUID=BE988129-5FFE-4772-9CCB-1FD73446FE93
+SmplCName=Xpanel7inch_1281 (Device 3).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=9
+CedH=9
+SmartObjId=3d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=9
+Tp=1
+HD=TRUE
+DV=3d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=9
+Name=Xpanel7inch_1281 (Device 3).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 2).ced
+Hint=1281 (Device 2) (Smart Object ID=2)
+Code=10
+SGControlType=TSW-770
+SGControlName=1281 (Device 2)
+GUID=577362FF-9BAE-4D51-9315-46D4F63F6B4C
+SmplCName=Xpanel7inch_1281 (Device 2).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=10
+CedH=10
+SmartObjId=2d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=10
+Tp=1
+HD=TRUE
+DV=2d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=10
+Name=Xpanel7inch_1281 (Device 2).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_1281 (Device 1).ced
+Hint=1281 (Device 1) (Smart Object ID=1)
+Code=11
+SGControlType=TSW-770
+SGControlName=1281 (Device 1)
+GUID=66172D87-2CC0-4910-B987-265EB63895C6
+SmplCName=Xpanel7inch_1281 (Device 1).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=11
+CedH=11
+SmartObjId=1d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=11
+Tp=1
+HD=TRUE
+DV=1d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=11
+Name=Xpanel7inch_1281 (Device 1).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_000.Audio Hallway_Main player.ced
+Hint=Main player (Smart Object ID=15)
+Code=12
+SGControlType=Media Player Application
+SGControlName=Main player
+GUID=EC50C5D5-EC9E-42AB-9F01-86E88ED6C3BD
+SmplCName=Xpanel7inch_000.Audio Hallway_Main player.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=12
+CedH=12
+SmartObjId=15d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=12
+Tp=1
+HD=TRUE
+DV=15d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=12
+Name=Xpanel7inch_000.Audio Hallway_Main player.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_002.Audio_Media TheHub.ced
+Hint=Media TheHub (Smart Object ID=20)
+Code=13
+SGControlType=Media Player Application
+SGControlName=Media TheHub
+GUID=9DC9EF68-1739-4488-82A0-FC720A0D8405
+SmplCName=Xpanel7inch_002.Audio_Media TheHub.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=13
+CedH=13
+SmartObjId=20d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=13
+Tp=1
+HD=TRUE
+DV=20d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=13
+Name=Xpanel7inch_002.Audio_Media TheHub.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_002.TV Control_DPad Rogers TheHub.ced
+Hint=DPad Rogers TheHub (Smart Object ID=11)
+Code=14
+SGControlType=DPad
+SGControlName=DPad Rogers TheHub
+GUID=97D86FFB-762A-4E52-9BC0-6F275B75159B
+SmplCName=Xpanel7inch_002.TV Control_DPad Rogers TheHub.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=14
+CedH=14
+SmartObjId=11d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=14
+Tp=1
+HD=TRUE
+DV=11d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=14
+Name=Xpanel7inch_002.TV Control_DPad Rogers TheHub.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_002.TV Control_Keypad Rogers TheHub.ced
+Hint=Keypad Rogers TheHub (Smart Object ID=10)
+Code=15
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers TheHub
+GUID=A45366BC-6347-4111-8F55-A412F64E445F
+SmplCName=Xpanel7inch_002.TV Control_Keypad Rogers TheHub.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=15
+CedH=15
+SmartObjId=10d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=15
+Tp=1
+HD=TRUE
+DV=10d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=15
+Name=Xpanel7inch_002.TV Control_Keypad Rogers TheHub.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_003.TV Control-1_DPad Rogers GYM TV 2.ced
+Hint=DPad Rogers GYM TV 2 (Smart Object ID=13)
+Code=16
+SGControlType=DPad
+SGControlName=DPad Rogers GYM TV 2
+GUID=820C6FF1-B2AD-458D-90F6-64ECACCE9361
+SmplCName=Xpanel7inch_003.TV Control-1_DPad Rogers GYM TV 2.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=16
+CedH=16
+SmartObjId=13d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=16
+Tp=1
+HD=TRUE
+DV=13d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=16
+Name=Xpanel7inch_003.TV Control-1_DPad Rogers GYM TV 2.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_003.TV Control-1_Keypad Rogers GYM TV 2.ced
+Hint=Keypad Rogers GYM TV 2 (Smart Object ID=12)
+Code=17
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers GYM TV 2
+GUID=8C026027-C8D3-4EF6-823F-B7E4DFCEB233
+SmplCName=Xpanel7inch_003.TV Control-1_Keypad Rogers GYM TV 2.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=17
+CedH=17
+SmartObjId=12d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=17
+Tp=1
+HD=TRUE
+DV=12d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=17
+Name=Xpanel7inch_003.TV Control-1_Keypad Rogers GYM TV 2.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_003.Audio_Media GYM.ced
+Hint=Media GYM (Smart Object ID=22)
+Code=18
+SGControlType=Media Player Application
+SGControlName=Media GYM
+GUID=A4EB6231-1D67-4C23-9A7D-452997B3E6D5
+SmplCName=Xpanel7inch_003.Audio_Media GYM.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=18
+CedH=18
+SmartObjId=22d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=18
+Tp=1
+HD=TRUE
+DV=22d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=18
+Name=Xpanel7inch_003.Audio_Media GYM.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_003.TV Control_DPad Rogers GYMTV1.ced
+Hint=DPad Rogers GYMTV1 (Smart Object ID=18)
+Code=19
+SGControlType=DPad
+SGControlName=DPad Rogers GYMTV1
+GUID=3C7D5922-5F95-481D-958B-E0760F1A1BC5
+SmplCName=Xpanel7inch_003.TV Control_DPad Rogers GYMTV1.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=19
+CedH=19
+SmartObjId=18d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=19
+Tp=1
+HD=TRUE
+DV=18d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=19
+Name=Xpanel7inch_003.TV Control_DPad Rogers GYMTV1.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_003.TV Control_Keypad Rogers GYMTV1.ced
+Hint=Keypad Rogers GYMTV1 (Smart Object ID=17)
+Code=20
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers GYMTV1
+GUID=F7553FAF-4B0D-4C32-A2BD-9A4F6AD68A9F
+SmplCName=Xpanel7inch_003.TV Control_Keypad Rogers GYMTV1.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=20
+CedH=20
+SmartObjId=17d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=20
+Tp=1
+HD=TRUE
+DV=17d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=20
+Name=Xpanel7inch_003.TV Control_Keypad Rogers GYMTV1.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_004.Audio_Media Pool.ced
+Hint=Media Pool (Smart Object ID=23)
+Code=21
+SGControlType=Media Player Application
+SGControlName=Media Pool
+GUID=BB0FDFA6-1084-41F6-B4F7-A22222333287
+SmplCName=Xpanel7inch_004.Audio_Media Pool.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=21
+CedH=21
+SmartObjId=23d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=21
+Tp=1
+HD=TRUE
+DV=23d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=21
+Name=Xpanel7inch_004.Audio_Media Pool.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_005.Audio_Media SPA.ced
+Hint=Media SPA (Smart Object ID=24)
+Code=22
+SGControlType=Media Player Application
+SGControlName=Media SPA
+GUID=9DA81EC9-8ACC-4996-861B-78EFA3213BFF
+SmplCName=Xpanel7inch_005.Audio_Media SPA.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=22
+CedH=22
+SmartObjId=24d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=22
+Tp=1
+HD=TRUE
+DV=24d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=22
+Name=Xpanel7inch_005.Audio_Media SPA.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_005.TV Control_DPad Rogers SPA.ced
+Hint=DPad Rogers SPA (Smart Object ID=55)
+Code=23
+SGControlType=DPad
+SGControlName=DPad Rogers SPA
+GUID=437E8BD8-F8CC-47E4-B7CA-F4AD8C2A550D
+SmplCName=Xpanel7inch_005.TV Control_DPad Rogers SPA.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=23
+CedH=23
+SmartObjId=55d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=23
+Tp=1
+HD=TRUE
+DV=55d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=23
+Name=Xpanel7inch_005.TV Control_DPad Rogers SPA.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_005.TV Control_Keypad Rogers SPA.ced
+Hint=Keypad Rogers SPA (Smart Object ID=54)
+Code=24
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers SPA
+GUID=5FD10B05-4DC9-439B-9FAA-E96A60378F06
+SmplCName=Xpanel7inch_005.TV Control_Keypad Rogers SPA.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=24
+CedH=24
+SmartObjId=54d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=24
+Tp=1
+HD=TRUE
+DV=54d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=24
+Name=Xpanel7inch_005.TV Control_Keypad Rogers SPA.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_006.Rogers_DPad Rogers Theatre.ced
+Hint=DPad Rogers Theatre (Smart Object ID=31)
+Code=25
+SGControlType=DPad
+SGControlName=DPad Rogers Theatre
+GUID=5207A02A-0105-4CB5-9EDC-6037DB64DF1F
+SmplCName=Xpanel7inch_006.Rogers_DPad Rogers Theatre.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=25
+CedH=25
+SmartObjId=31d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=25
+Tp=1
+HD=TRUE
+DV=31d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=25
+Name=Xpanel7inch_006.Rogers_DPad Rogers Theatre.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_006.Rogers_Keypad Rogers Theatre.ced
+Hint=Keypad Rogers Theatre (Smart Object ID=30)
+Code=26
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers Theatre
+GUID=C1328C8E-4FD0-4A05-B38A-45C5129E7ECD
+SmplCName=Xpanel7inch_006.Rogers_Keypad Rogers Theatre.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=26
+CedH=26
+SmartObjId=30d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=26
+Tp=1
+HD=TRUE
+DV=30d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=26
+Name=Xpanel7inch_006.Rogers_Keypad Rogers Theatre.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_006.DVD_DPad DVD Theatre.ced
+Hint=DPad DVD Theatre (Smart Object ID=32)
+Code=27
+SGControlType=DPad
+SGControlName=DPad DVD Theatre
+GUID=A7968A65-CC79-4EEE-854C-4B067889B92F
+SmplCName=Xpanel7inch_006.DVD_DPad DVD Theatre.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=27
+CedH=27
+SmartObjId=32d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=27
+Tp=1
+HD=TRUE
+DV=32d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=27
+Name=Xpanel7inch_006.DVD_DPad DVD Theatre.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_006.DVD_Play.ced
+Hint=Play (Smart Object ID=5)
+Code=28
+SGControlType=Horizontal Tab Button
+SGControlName=Play
+GUID=E4C618C1-2D29-4395-953F-DDD73091FA11
+SmplCName=Xpanel7inch_006.DVD_Play.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=6
+MaxVariableInputs=6
+MinVariableOutputs=6
+MaxVariableOutputs=6
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=28
+CedH=28
+SmartObjId=5d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=28
+Tp=1
+HD=TRUE
+DV=5d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=28
+Name=Xpanel7inch_006.DVD_Play.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_006.DVD_Navi.ced
+Hint=Navi (Smart Object ID=14)
+Code=29
+SGControlType=Horizontal Tab Button
+SGControlName=Navi
+GUID=6330F342-7DF8-4BBE-ADD7-A1D114D2C9D7
+SmplCName=Xpanel7inch_006.DVD_Navi.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10031
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=8
+MaxVariableInputs=8
+MinVariableOutputs=8
+MaxVariableOutputs=8
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Tab Button 1 Press
+OutputSigType1=Digital
+InputCue2=Tab Button 1 Select
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Tab Button 2 Press
+OutputSigType3=Digital
+InputCue4=Tab Button 2 Select
+InputSigType4=Digital
+OutputCue4=[~UNUSED3~]
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Tab Button 3 Press
+OutputSigType5=Digital
+InputCue6=Tab Button 3 Select
+InputSigType6=Digital
+OutputCue6=[~UNUSED3~]
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=Tab Button 4 Press
+OutputSigType7=Digital
+InputCue8=Tab Button 4 Select
+InputSigType8=Digital
+OutputCue8=[~UNUSED3~]
+OutputSigType8=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=29
+CedH=29
+SmartObjId=14d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=29
+Tp=1
+HD=TRUE
+DV=14d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=29
+Name=Xpanel7inch_006.DVD_Navi.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_007.Audio_Media Library.ced
+Hint=Media Library (Smart Object ID=25)
+Code=30
+SGControlType=Media Player Application
+SGControlName=Media Library
+GUID=8DD29F70-049E-40D9-87AF-34CC1F4C2845
+SmplCName=Xpanel7inch_007.Audio_Media Library.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=30
+CedH=30
+SmartObjId=25d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=30
+Tp=1
+HD=TRUE
+DV=25d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=30
+Name=Xpanel7inch_007.Audio_Media Library.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_007.TV Control_DPad Rogers Library.ced
+Hint=DPad Rogers Library (Smart Object ID=57)
+Code=31
+SGControlType=DPad
+SGControlName=DPad Rogers Library
+GUID=66D97CFF-72DD-423F-A0B2-F3AA7CE544DF
+SmplCName=Xpanel7inch_007.TV Control_DPad Rogers Library.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=31
+CedH=31
+SmartObjId=57d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=31
+Tp=1
+HD=TRUE
+DV=57d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=31
+Name=Xpanel7inch_007.TV Control_DPad Rogers Library.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_007.TV Control_Keypad Rogers Library.ced
+Hint=Keypad Rogers Library (Smart Object ID=56)
+Code=32
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers Library
+GUID=E4995A37-9DCF-4B04-9AA5-692980B74D06
+SmplCName=Xpanel7inch_007.TV Control_Keypad Rogers Library.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=32
+CedH=32
+SmartObjId=56d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=32
+Tp=1
+HD=TRUE
+DV=56d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=32
+Name=Xpanel7inch_007.TV Control_Keypad Rogers Library.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_008.Audio_Media GastroPub.ced
+Hint=Media GastroPub (Smart Object ID=40)
+Code=33
+SGControlType=Media Player Application
+SGControlName=Media GastroPub
+GUID=9BE5B5AC-0C45-49DF-B4E8-BBE0E41C15F1
+SmplCName=Xpanel7inch_008.Audio_Media GastroPub.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=33
+CedH=33
+SmartObjId=40d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=33
+Tp=1
+HD=TRUE
+DV=40d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=33
+Name=Xpanel7inch_008.Audio_Media GastroPub.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_008.TV Control_DPad Rogers GastroPub.ced
+Hint=DPad Rogers GastroPub (Smart Object ID=34)
+Code=34
+SGControlType=DPad
+SGControlName=DPad Rogers GastroPub
+GUID=EE84EEE4-50F5-4F66-B003-CC88855461BB
+SmplCName=Xpanel7inch_008.TV Control_DPad Rogers GastroPub.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=34
+CedH=34
+SmartObjId=34d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=34
+Tp=1
+HD=TRUE
+DV=34d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=34
+Name=Xpanel7inch_008.TV Control_DPad Rogers GastroPub.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_008.TV Control_Keypad Rogers GastroPub.ced
+Hint=Keypad Rogers GastroPub (Smart Object ID=33)
+Code=35
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers GastroPub
+GUID=CBAF303E-4A86-4778-84EA-9B2FC96B797E
+SmplCName=Xpanel7inch_008.TV Control_Keypad Rogers GastroPub.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=35
+CedH=35
+SmartObjId=33d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=35
+Tp=1
+HD=TRUE
+DV=33d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=35
+Name=Xpanel7inch_008.TV Control_Keypad Rogers GastroPub.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_009.Audio_Media Billiards.ced
+Hint=Media Billiards (Smart Object ID=26)
+Code=36
+SGControlType=Media Player Application
+SGControlName=Media Billiards
+GUID=0FF61A1A-E594-422D-9B4C-E62EA62B8A49
+SmplCName=Xpanel7inch_009.Audio_Media Billiards.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=36
+CedH=36
+SmartObjId=26d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=36
+Tp=1
+HD=TRUE
+DV=26d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=36
+Name=Xpanel7inch_009.Audio_Media Billiards.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_009.TV Control_DPad Rogers Billiards.ced
+Hint=DPad Rogers Billiards (Smart Object ID=36)
+Code=37
+SGControlType=DPad
+SGControlName=DPad Rogers Billiards
+GUID=CEB0378D-0A14-4DFE-BC11-E0709CAC8CC1
+SmplCName=Xpanel7inch_009.TV Control_DPad Rogers Billiards.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=37
+CedH=37
+SmartObjId=36d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=37
+Tp=1
+HD=TRUE
+DV=36d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=37
+Name=Xpanel7inch_009.TV Control_DPad Rogers Billiards.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_009.TV Control_Keypad Rogers Billiards.ced
+Hint=Keypad Rogers Billiards (Smart Object ID=35)
+Code=38
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers Billiards
+GUID=1FF503D1-C4C2-446D-91DD-91E80C51626D
+SmplCName=Xpanel7inch_009.TV Control_Keypad Rogers Billiards.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=38
+CedH=38
+SmartObjId=35d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=38
+Tp=1
+HD=TRUE
+DV=35d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=38
+Name=Xpanel7inch_009.TV Control_Keypad Rogers Billiards.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0010.TV Control_DPad Rogers LivingWell.ced
+Hint=DPad Rogers LivingWell (Smart Object ID=38)
+Code=39
+SGControlType=DPad
+SGControlName=DPad Rogers LivingWell
+GUID=69BF11C5-9F09-4ED3-A6B2-44BD04ABBA29
+SmplCName=Xpanel7inch_0010.TV Control_DPad Rogers LivingWell.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=39
+CedH=39
+SmartObjId=38d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=39
+Tp=1
+HD=TRUE
+DV=38d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=39
+Name=Xpanel7inch_0010.TV Control_DPad Rogers LivingWell.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0010.TV Control_Keypad Rogers LivingWell.ced
+Hint=Keypad Rogers LivingWell (Smart Object ID=37)
+Code=40
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers LivingWell
+GUID=F3A75B39-E666-4966-BF06-3E3D050275A1
+SmplCName=Xpanel7inch_0010.TV Control_Keypad Rogers LivingWell.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=40
+CedH=40
+SmartObjId=37d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=40
+Tp=1
+HD=TRUE
+DV=37d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=40
+Name=Xpanel7inch_0010.TV Control_Keypad Rogers LivingWell.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0010.Audio_Media LivingWell.ced
+Hint=Media LivingWell (Smart Object ID=27)
+Code=41
+SGControlType=Media Player Application
+SGControlName=Media LivingWell
+GUID=17842D8B-7533-47E5-B2F5-93C15599DB43
+SmplCName=Xpanel7inch_0010.Audio_Media LivingWell.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=41
+CedH=41
+SmartObjId=27d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=41
+Tp=1
+HD=TRUE
+DV=27d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=41
+Name=Xpanel7inch_0010.Audio_Media LivingWell.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0011.Audio_Media big dinning.ced
+Hint=Media big dinning (Smart Object ID=28)
+Code=42
+SGControlType=Media Player Application
+SGControlName=Media big dinning
+GUID=7D9CC6AC-96E1-4421-9FEA-8B551011CA95
+SmplCName=Xpanel7inch_0011.Audio_Media big dinning.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=42
+CedH=42
+SmartObjId=28d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=42
+Tp=1
+HD=TRUE
+DV=28d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=42
+Name=Xpanel7inch_0011.Audio_Media big dinning.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0011.Patio_Media Patio.ced
+Hint=Media Patio (Smart Object ID=29)
+Code=43
+SGControlType=Media Player Application
+SGControlName=Media Patio
+GUID=5CAE6C1D-5913-40B7-B79E-D5CEA63CD6EA
+SmplCName=Xpanel7inch_0011.Patio_Media Patio.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=43
+CedH=43
+SmartObjId=29d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=43
+Tp=1
+HD=TRUE
+DV=29d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=43
+Name=Xpanel7inch_0011.Patio_Media Patio.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0012.Audio_Media Pdinning.ced
+Hint=Media Pdinning (Smart Object ID=39)
+Code=44
+SGControlType=Media Player Application
+SGControlName=Media Pdinning
+GUID=25234821-C3D5-46DF-927E-EDE53664AC03
+SmplCName=Xpanel7inch_0012.Audio_Media Pdinning.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=44
+CedH=44
+SmartObjId=39d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=44
+Tp=1
+HD=TRUE
+DV=39d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=44
+Name=Xpanel7inch_0012.Audio_Media Pdinning.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0013.Audio_Media Raju.ced
+Hint=Media Raju (Smart Object ID=41)
+Code=45
+SGControlType=Media Player Application
+SGControlName=Media Raju
+GUID=BDC17513-316F-4921-805E-B58EAF070F18
+SmplCName=Xpanel7inch_0013.Audio_Media Raju.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=45
+CedH=45
+SmartObjId=41d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=45
+Tp=1
+HD=TRUE
+DV=41d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=45
+Name=Xpanel7inch_0013.Audio_Media Raju.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0014.Audio_Media ArtStudio.ced
+Hint=Media ArtStudio (Smart Object ID=42)
+Code=46
+SGControlType=Media Player Application
+SGControlName=Media ArtStudio
+GUID=FE49DFC2-7F95-4062-BC63-DE87357D9A1D
+SmplCName=Xpanel7inch_0014.Audio_Media ArtStudio.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=46
+CedH=46
+SmartObjId=42d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=46
+Tp=1
+HD=TRUE
+DV=42d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=46
+Name=Xpanel7inch_0014.Audio_Media ArtStudio.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0015.Audio_Media Bloomington.ced
+Hint=Media Bloomington (Smart Object ID=43)
+Code=47
+SGControlType=Media Player Application
+SGControlName=Media Bloomington
+GUID=88FC85D2-9186-4997-9D59-BE4249843BC6
+SmplCName=Xpanel7inch_0015.Audio_Media Bloomington.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=47
+CedH=47
+SmartObjId=43d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=47
+Tp=1
+HD=TRUE
+DV=43d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=47
+Name=Xpanel7inch_0015.Audio_Media Bloomington.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0016.TV Control_DPad Rogers 2ND GYM.ced
+Hint=DPad Rogers 2ND GYM (Smart Object ID=51)
+Code=48
+SGControlType=DPad
+SGControlName=DPad Rogers 2ND GYM
+GUID=351A2C57-A273-4D55-A809-4AFFD58954B6
+SmplCName=Xpanel7inch_0016.TV Control_DPad Rogers 2ND GYM.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=48
+CedH=48
+SmartObjId=51d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=48
+Tp=1
+HD=TRUE
+DV=51d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=48
+Name=Xpanel7inch_0016.TV Control_DPad Rogers 2ND GYM.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0016.TV Control_Keypad Rogers 2ndGYM.ced
+Hint=Keypad Rogers 2ndGYM (Smart Object ID=50)
+Code=49
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers 2ndGYM
+GUID=9DB2F152-28E0-45A5-B14C-91AA8B10A80C
+SmplCName=Xpanel7inch_0016.TV Control_Keypad Rogers 2ndGYM.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=49
+CedH=49
+SmartObjId=50d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=49
+Tp=1
+HD=TRUE
+DV=50d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=49
+Name=Xpanel7inch_0016.TV Control_Keypad Rogers 2ndGYM.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0016.Audio_GYM 2nd Floor.ced
+Hint=GYM 2nd Floor (Smart Object ID=44)
+Code=50
+SGControlType=Media Player Application
+SGControlName=GYM 2nd Floor
+GUID=5335B715-585F-461D-86E5-BD5EA0ADB8C4
+SmplCName=Xpanel7inch_0016.Audio_GYM 2nd Floor.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=50
+CedH=50
+SmartObjId=44d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=50
+Tp=1
+HD=TRUE
+DV=44d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=50
+Name=Xpanel7inch_0016.Audio_GYM 2nd Floor.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0017.TV Control_DPad Rogers McKenzie.ced
+Hint=DPad Rogers McKenzie (Smart Object ID=53)
+Code=51
+SGControlType=DPad
+SGControlName=DPad Rogers McKenzie
+GUID=A7C191B4-64D9-46D7-BEE1-26005AB7D82C
+SmplCName=Xpanel7inch_0017.TV Control_DPad Rogers McKenzie.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=51
+CedH=51
+SmartObjId=53d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=51
+Tp=1
+HD=TRUE
+DV=53d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=51
+Name=Xpanel7inch_0017.TV Control_DPad Rogers McKenzie.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0017.TV Control_Keypad Rogers McKenzie.ced
+Hint=Keypad Rogers McKenzie (Smart Object ID=52)
+Code=52
+SGControlType=Simple Keypad
+SGControlName=Keypad Rogers McKenzie
+GUID=4A324BC6-948A-4C6A-B34B-81F46C64821E
+SmplCName=Xpanel7inch_0017.TV Control_Keypad Rogers McKenzie.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=52
+CedH=52
+SmartObjId=52d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=52
+Tp=1
+HD=TRUE
+DV=52d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=52
+Name=Xpanel7inch_0017.TV Control_Keypad Rogers McKenzie.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0017.Audio_Media McKenzie.ced
+Hint=Media McKenzie (Smart Object ID=45)
+Code=53
+SGControlType=Media Player Application
+SGControlName=Media McKenzie
+GUID=E4294DCF-96A6-4974-B608-73E5538B52EB
+SmplCName=Xpanel7inch_0017.Audio_Media McKenzie.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=53
+CedH=53
+SmartObjId=45d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=53
+Tp=1
+HD=TRUE
+DV=45d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=53
+Name=Xpanel7inch_0017.Audio_Media McKenzie.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0019.2ndFloor Hallway_Meaia 2ndFloor Hallway.ced
+Hint=Meaia 2ndFloor Hallway (Smart Object ID=46)
+Code=54
+SGControlType=Media Player Application
+SGControlName=Meaia 2ndFloor Hallway
+GUID=90D32DCB-C574-4606-850B-37C38CBE61F5
+SmplCName=Xpanel7inch_0019.2ndFloor Hallway_Meaia 2ndFloor Hallway.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=54
+CedH=54
+SmartObjId=46d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=54
+Tp=1
+HD=TRUE
+DV=46d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=54
+Name=Xpanel7inch_0019.2ndFloor Hallway_Meaia 2ndFloor Hallway.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_001.Main_Button List _ GF 1.ced
+Hint=Button List _ GF 1 (Smart Object ID=101)
+Code=55
+SGControlType=Button List Horizontal
+SGControlName=Button List _ GF 1
+GUID=55BA0285-EDD8-48FF-A9C6-8A787D8B9C81
+SmplCName=Xpanel7inch_001.Main_Button List _ GF 1.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10008
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=6
+MaxVariableInputsList2=6
+MinVariableOutputsList2=6
+MaxVariableOutputsList2=6
+MinVariableInputsList3=5
+MaxVariableInputsList3=5
+MinVariableOutputsList3=5
+MaxVariableOutputsList3=5
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Item 1 Pressed
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Item 2 Pressed
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Item 3 Pressed
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Item 4 Pressed
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Item 5 Pressed
+OutputSigType5=Digital
+InputList2Cue1=Select Item
+InputList2SigType1=Analog
+OutputList2Cue1=[~UNUSED3~]
+OutputList2SigType1=Analog
+InputList2Cue2=Deselect Item
+InputList2SigType2=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+InputList2Cue3=Scroll Item
+InputList2SigType3=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+InputList2Cue4=[~UNUSED3~]
+InputList2SigType4=Analog
+OutputList2Cue4=Item Clicked
+OutputList2SigType4=Analog
+InputList2Cue5=[~UNUSED3~]
+InputList2SigType5=Analog
+OutputList2Cue5=Item Held
+OutputList2SigType5=Analog
+InputList2Cue6=Set Num of Items
+InputList2SigType6=Analog
+OutputList2Cue6=[~UNUSED3~]
+OutputList2SigType6=Analog
+InputList3Cue1=Item 1 Text
+InputList3SigType1=Serial
+OutputList3Cue1=[~UNUSED3~]
+OutputList3SigType1=Serial
+InputList3Cue2=Item 2 Text
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Item 3 Text
+InputList3SigType3=Serial
+OutputList3Cue3=[~UNUSED3~]
+OutputList3SigType3=Serial
+InputList3Cue4=Item 4 Text
+InputList3SigType4=Serial
+OutputList3Cue4=[~UNUSED3~]
+OutputList3SigType4=Serial
+InputList3Cue5=Item 5 Text
+InputList3SigType5=Serial
+OutputList3Cue5=[~UNUSED3~]
+OutputList3SigType5=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=55
+CedH=55
+SmartObjId=101d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=55
+Tp=1
+HD=TRUE
+DV=101d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=55
+Name=Xpanel7inch_001.Main_Button List _ GF 1.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_001.Main_Button List _ GF 2.ced
+Hint=Button List _ GF 2 (Smart Object ID=102)
+Code=56
+SGControlType=Button List Horizontal
+SGControlName=Button List _ GF 2
+GUID=C7EFC1E6-877C-4AAF-9C48-BFA0F8DF1268
+SmplCName=Xpanel7inch_001.Main_Button List _ GF 2.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10008
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=6
+MaxVariableInputsList2=6
+MinVariableOutputsList2=6
+MaxVariableOutputsList2=6
+MinVariableInputsList3=5
+MaxVariableInputsList3=5
+MinVariableOutputsList3=5
+MaxVariableOutputsList3=5
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Item 1 Pressed
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Item 2 Pressed
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Item 3 Pressed
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Item 4 Pressed
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Item 5 Pressed
+OutputSigType5=Digital
+InputList2Cue1=Select Item
+InputList2SigType1=Analog
+OutputList2Cue1=[~UNUSED3~]
+OutputList2SigType1=Analog
+InputList2Cue2=Deselect Item
+InputList2SigType2=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+InputList2Cue3=Scroll Item
+InputList2SigType3=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+InputList2Cue4=[~UNUSED3~]
+InputList2SigType4=Analog
+OutputList2Cue4=Item Clicked
+OutputList2SigType4=Analog
+InputList2Cue5=[~UNUSED3~]
+InputList2SigType5=Analog
+OutputList2Cue5=Item Held
+OutputList2SigType5=Analog
+InputList2Cue6=Set Num of Items
+InputList2SigType6=Analog
+OutputList2Cue6=[~UNUSED3~]
+OutputList2SigType6=Analog
+InputList3Cue1=Item 1 Text
+InputList3SigType1=Serial
+OutputList3Cue1=[~UNUSED3~]
+OutputList3SigType1=Serial
+InputList3Cue2=Item 2 Text
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Item 3 Text
+InputList3SigType3=Serial
+OutputList3Cue3=[~UNUSED3~]
+OutputList3SigType3=Serial
+InputList3Cue4=Item 4 Text
+InputList3SigType4=Serial
+OutputList3Cue4=[~UNUSED3~]
+OutputList3SigType4=Serial
+InputList3Cue5=Item 5 Text
+InputList3SigType5=Serial
+OutputList3Cue5=[~UNUSED3~]
+OutputList3SigType5=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=56
+CedH=56
+SmartObjId=102d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=56
+Tp=1
+HD=TRUE
+DV=102d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=56
+Name=Xpanel7inch_001.Main_Button List _ GF 2.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_001.Main_Button List _ GF 3.ced
+Hint=Button List _ GF 3 (Smart Object ID=103)
+Code=57
+SGControlType=Button List Horizontal
+SGControlName=Button List _ GF 3
+GUID=75DB5FAE-0B2A-4D3D-A2C7-37EC54CE8ACB
+SmplCName=Xpanel7inch_001.Main_Button List _ GF 3.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10008
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=6
+MaxVariableInputsList2=6
+MinVariableOutputsList2=6
+MaxVariableOutputsList2=6
+MinVariableInputsList3=5
+MaxVariableInputsList3=5
+MinVariableOutputsList3=5
+MaxVariableOutputsList3=5
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Item 1 Pressed
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Item 2 Pressed
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Item 3 Pressed
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Item 4 Pressed
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Item 5 Pressed
+OutputSigType5=Digital
+InputList2Cue1=Select Item
+InputList2SigType1=Analog
+OutputList2Cue1=[~UNUSED3~]
+OutputList2SigType1=Analog
+InputList2Cue2=Deselect Item
+InputList2SigType2=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+InputList2Cue3=Scroll Item
+InputList2SigType3=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+InputList2Cue4=[~UNUSED3~]
+InputList2SigType4=Analog
+OutputList2Cue4=Item Clicked
+OutputList2SigType4=Analog
+InputList2Cue5=[~UNUSED3~]
+InputList2SigType5=Analog
+OutputList2Cue5=Item Held
+OutputList2SigType5=Analog
+InputList2Cue6=Set Num of Items
+InputList2SigType6=Analog
+OutputList2Cue6=[~UNUSED3~]
+OutputList2SigType6=Analog
+InputList3Cue1=Item 1 Text
+InputList3SigType1=Serial
+OutputList3Cue1=[~UNUSED3~]
+OutputList3SigType1=Serial
+InputList3Cue2=Item 2 Text
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Item 3 Text
+InputList3SigType3=Serial
+OutputList3Cue3=[~UNUSED3~]
+OutputList3SigType3=Serial
+InputList3Cue4=Item 4 Text
+InputList3SigType4=Serial
+OutputList3Cue4=[~UNUSED3~]
+OutputList3SigType4=Serial
+InputList3Cue5=Item 5 Text
+InputList3SigType5=Serial
+OutputList3Cue5=[~UNUSED3~]
+OutputList3SigType5=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=57
+CedH=57
+SmartObjId=103d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=57
+Tp=1
+HD=TRUE
+DV=103d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=57
+Name=Xpanel7inch_001.Main_Button List _ GF 3.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_001.Main_Button List _ 2nd Floor.ced
+Hint=Button List _ 2nd Floor (Smart Object ID=100)
+Code=58
+SGControlType=Button List Horizontal
+SGControlName=Button List _ 2nd Floor
+GUID=1A1F2A9E-6CFD-4FCD-B50A-BF425ACA3D5E
+SmplCName=Xpanel7inch_001.Main_Button List _ 2nd Floor.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10008
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=6
+MaxVariableInputsList2=6
+MinVariableOutputsList2=6
+MaxVariableOutputsList2=6
+MinVariableInputsList3=5
+MaxVariableInputsList3=5
+MinVariableOutputsList3=5
+MaxVariableOutputsList3=5
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Item 1 Pressed
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Item 2 Pressed
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Item 3 Pressed
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Item 4 Pressed
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Item 5 Pressed
+OutputSigType5=Digital
+InputList2Cue1=Select Item
+InputList2SigType1=Analog
+OutputList2Cue1=[~UNUSED3~]
+OutputList2SigType1=Analog
+InputList2Cue2=Deselect Item
+InputList2SigType2=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+InputList2Cue3=Scroll Item
+InputList2SigType3=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+InputList2Cue4=[~UNUSED3~]
+InputList2SigType4=Analog
+OutputList2Cue4=Item Clicked
+OutputList2SigType4=Analog
+InputList2Cue5=[~UNUSED3~]
+InputList2SigType5=Analog
+OutputList2Cue5=Item Held
+OutputList2SigType5=Analog
+InputList2Cue6=Set Num of Items
+InputList2SigType6=Analog
+OutputList2Cue6=[~UNUSED3~]
+OutputList2SigType6=Analog
+InputList3Cue1=Item 1 Text
+InputList3SigType1=Serial
+OutputList3Cue1=[~UNUSED3~]
+OutputList3SigType1=Serial
+InputList3Cue2=Item 2 Text
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Item 3 Text
+InputList3SigType3=Serial
+OutputList3Cue3=[~UNUSED3~]
+OutputList3SigType3=Serial
+InputList3Cue4=Item 4 Text
+InputList3SigType4=Serial
+OutputList3Cue4=[~UNUSED3~]
+OutputList3SigType4=Serial
+InputList3Cue5=Item 5 Text
+InputList3SigType5=Serial
+OutputList3Cue5=[~UNUSED3~]
+OutputList3SigType5=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=58
+CedH=58
+SmartObjId=100d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=58
+Tp=1
+HD=TRUE
+DV=100d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=58
+Name=Xpanel7inch_001.Main_Button List _ 2nd Floor.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_001.password_Simple Keypad password.ced
+Hint=Simple Keypad password (Smart Object ID=62)
+Code=59
+SGControlType=Simple Keypad
+SGControlName=Simple Keypad password
+GUID=1A8E6228-D689-4F25-BDDF-88B487032EFD
+SmplCName=Xpanel7inch_001.password_Simple Keypad password.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=59
+CedH=59
+SmartObjId=62d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=59
+Tp=1
+HD=TRUE
+DV=62d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=59
+Name=Xpanel7inch_001.password_Simple Keypad password.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0020.RoofTop_Roof top.ced
+Hint=Roof top (Smart Object ID=61)
+Code=60
+SGControlType=Media Player Application
+SGControlName=Roof top
+GUID=B79F943D-2790-4DA4-A528-37D56F40C4B2
+SmplCName=Xpanel7inch_0020.RoofTop_Roof top.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=60
+CedH=60
+SmartObjId=61d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=60
+Tp=1
+HD=TRUE
+DV=61d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=60
+Name=Xpanel7inch_0020.RoofTop_Roof top.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Xpanel7inch_0021.Matchell_Matchell Terrace.ced
+Hint=Matchell Terrace (Smart Object ID=60)
+Code=61
+SGControlType=Media Player Application
+SGControlName=Matchell Terrace
+GUID=50474B17-DF93-40C0-A7F4-7F5D099E5CE3
+SmplCName=Xpanel7inch_0021.Matchell_Matchell Terrace.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=61
+CedH=61
+SmartObjId=60d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=61
+Tp=1
+HD=TRUE
+DV=60d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=61
+Name=Xpanel7inch_0021.Matchell_Matchell Terrace.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]

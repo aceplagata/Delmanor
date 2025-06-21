@@ -1,0 +1,124 @@
+<Device Model="AV4" Name="AV4 with card cage">
+   <Network Type="Cresnet" Id="04">
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="03" Name="Gym Storage Normal"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="04" Name="Gym Storage Emergency"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="05" Name="Office Closet Normal"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="06" Name="Office Closet Emergency"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="07" Name="Janitor Closet Normal"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="08" Name="Janitor Closet Normal"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="09" Name="Janitor Closet Normal"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="0A" Name="Janitor Closet Emergency"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="0B" Name="Chair Storage Normal"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="0C" Name="Chair Storage Emergency"/>
+      <Device Model="CLX-2DIMFLV8,CLXI-2DIMFLV8" DeviceId="0D" Name="Cove Lights">
+         <Network Type="Cresnet"/>
+      </Device>
+      <Device Model="C2N-CBD-P" DeviceId="10" Name="Family Dinning"/>
+   </Network>
+   <Network Type="Ethernet" Id="05">
+      <Device Model="CEN-GWEXER" DeviceId="03" Name="DATA Room">
+         <Network Type="RF">
+            <Device Model="CLW-DELVEX-P" DeviceId="03" Name="Art Studio"/>
+            <Device Model="CLW-DELVEX-P" DeviceId="04" Name="Art Studio"/>
+            <Device Model="HR-310,HRI-310" DeviceId="05" Name="LivingWell"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="07"/>
+            <Device Model="HR-310,HRI-310" DeviceId="0A" Name="Billiards"/>
+            <Device Model="HR-310,HRI-310" DeviceId="0B" Name="GastroPub"/>
+            <Device Model="HR-310,HRI-310" DeviceId="0C" Name="Library"/>
+         </Network>
+      </Device>
+      <Device Model="CEN-GWEXER" DeviceId="04" Name="SPA Area">
+         <Network Type="RF">
+            <Device Model="CLW-DIMEX-P" DeviceId="05" Name="Cove"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="06" Name="Wall"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="07" Name="Pots"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="08" Name="Pots"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0A" Name="SPA pots 1"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0B" Name="Spa pot 2"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0C" Name="SPA pot 3"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0F" Name="SPA pot 4"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="11" Name="SPA pot 5"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="12" Name="Massage Room"/>
+            <Device Model="HR-310,HRI-310" DeviceId="13" Name="Theater"/>
+            <Device Model="HR-310,HRI-310" DeviceId="14" Name="SPA"/>
+         </Network>
+      </Device>
+      <Device Model="CEN-GWEXER" DeviceId="05" Name="2ND Floor">
+         <Network Type="RF">
+            <Device Model="CLW-DIMEX-P" DeviceId="03" Name="Library Pot"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="04" Name="Library Chand"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="05" Name="Library Wall"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="06" Name="Mckenzie Dome"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="07" Name="Bloomington Dome"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="08" Name="Gym Mid Light"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="09" Name="Bloomington Wall Light"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0A" Name="McKenzie Dome"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0B" Name="Gym Pot"/>
+            <Device Model="CLW-DIMEX-P" DeviceId="0C" Name="Bloomington Pots"/>
+            <Device Model="HR-310,HRI-310" DeviceId="10" Name="McKenzie"/>
+            <Device Model="HR-310,HRI-310" DeviceId="11" Name="Mckenzie GYM"/>
+         </Network>
+      </Device>
+      <Device Model="CEN-GWEXER" DeviceId="06" Name="GYM-HUB">
+         <Network Type="RF">
+            <Device Model="HR-310,HRI-310" DeviceId="03" Name="TheHub"/>
+            <Device Model="HR-310,HRI-310" DeviceId="04" Name="GYM TV 1"/>
+            <Device Model="HR-310,HRI-310" DeviceId="05" Name="GYM TV 2"/>
+         </Network>
+      </Device>
+      <Device Model="DSP-1281" DeviceId="10" Name="First"/>
+      <Device Model="DSP-1281" DeviceId="11" Name="Second"/>
+      <Device Model="DSP-1281" DeviceId="12" Name="Third"/>
+      <Device Model="DSP-1281" DeviceId="13" Name="2nd Floor East"/>
+      <Device Model="AMP-8150" DeviceId="14" Name="First"/>
+      <Device Model="AMP-8150" DeviceId="15" Name="Second"/>
+      <Device Model="DSP-1281" DeviceId="16" Name="2nd floor West"/>
+      <Device Model="AMP-8150" DeviceId="17" Name="2nd Floor"/>
+      <Device Model="AMP-8150" DeviceId="18" Name="2nd floor"/>
+      <Device Model="DM-NVX-E30C" DeviceId="20" Name="Rogers Bistro Pub-1st"/>
+      <Device Model="DM-NVX-E30C" DeviceId="21" Name="Billiards - 2nd"/>
+      <Device Model="DM-NVX-E30C" DeviceId="22" Name="Living Well - 3rd"/>
+      <Device Model="DM-NVX-E30C" DeviceId="23" Name="Library - 4th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="24" Name="SPA - 5th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="25" Name="GYM 1 - 6th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="26" Name="GYM 2 - 7th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="27" Name="The Hub - 8th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="28" Name="McKenzie - B1ST"/>
+      <Device Model="DM-NVX-E30C" DeviceId="29" Name="2ndfloor GYM - B2nd"/>
+      <Device Model="DM-NVX-E30C" DeviceId="2A" Name="B3rd"/>
+      <Device Model="DM-NVX-E30C" DeviceId="2B" Name="B4th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="2C" Name="B5th"/>
+      <Device Model="DM-NVX-E30C" DeviceId="2D" Name="B6th"/>
+      <Device Model="DM-NVX-D30" DeviceId="30" Name="Bistro Pub"/>
+      <Device Model="DM-NVX-D30" DeviceId="31" Name="Billiards"/>
+      <Device Model="DM-NVX-D30" DeviceId="32" Name="LivingWell"/>
+      <Device Model="DM-NVX-D30" DeviceId="33" Name="Library"/>
+      <Device Model="DM-NVX-D30" DeviceId="34" Name="SPA"/>
+      <Device Model="DM-NVX-D30" DeviceId="35" Name="GYM 1"/>
+      <Device Model="DM-NVX-D30" DeviceId="36" Name="GYM 2"/>
+      <Device Model="DM-NVX-D30" DeviceId="37" Name="The Hub"/>
+      <Device Model="DM-NVX-D30" DeviceId="38" Name="McKenzie"/>
+      <Device Model="DM-NVX-D30" DeviceId="39" Name="2ndFLRGYM"/>
+      <Device Model="TSW-1070" DeviceId="40" Name="Art Studio"/>
+      <Device Model="TSW-1070" DeviceId="41" Name="LivingWell "/>
+      <Device Model="TSW-1070" DeviceId="42" Name="Billard Hall"/>
+      <Device Model="TSW-1070" DeviceId="43" Name="Gastro Pub"/>
+      <Device Model="TSW-1070" DeviceId="44" Name="Wellington "/>
+      <Device Model="TSW-770" DeviceId="45" Name="Morraine P.Dinning"/>
+      <Device Model="TSW-1070" DeviceId="46" Name="Raju Bistro"/>
+      <Device Model="TSW-1070" DeviceId="48" Name="GYM"/>
+      <Device Model="TSW-1070" DeviceId="49" Name="The Hub"/>
+      <Device Model="TSW-1070" DeviceId="4A" Name="Pool"/>
+      <Device Model="TSW-1070" DeviceId="4B" Name="Kitchen(for Outdoor Patio)"/>
+      <Device Model="TSW-1070" DeviceId="4C" Name="(2ndFLR) Bloomington"/>
+      <Device Model="TSW-1070" DeviceId="4D" Name="(2ndFLoor)McKenzie&GYM"/>
+      <Device Model="TSW-1070" DeviceId="4E" Name="Theartre"/>
+      <Device Model="TSW-1070" DeviceId="4F" Name="Library"/>
+      <Device Model="Crestron_App" DeviceId="50" Name="PC App"/>
+      <Device Model="Autonomic MMS-5A" DeviceId="51"/>
+      <Device Model="TSW-770" DeviceId="52" Name="SPA"/>
+      <Device Model="TSW-770" DeviceId="53" Name="Staff GYM"/>
+      <Device Model="TSW-770" DeviceId="54" Name="PH West"/>
+      <Device Model="TSW-770" DeviceId="55" Name="PH East"/>
+   </Network>
+</Device>

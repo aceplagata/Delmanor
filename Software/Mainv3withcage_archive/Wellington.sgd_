@@ -1,0 +1,502 @@
+[
+ObjTp=FSgntr
+Sgntr=SGD
+RelVrs=3
+VTProeVer=6.2.02
+Schema=1
+CRCGUID=002F6617-C99B-4FDA-8C54-B62438F7EA1F
+]
+;================================================================================
+[
+ObjTp=Hd
+ProjectFile=Wellington.vtp
+VtpGuid=E156504C-89B1-43B1-9DCD-1C87E25082E3
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Wellington_1281 (Device 3).ced
+Hint=1281 (Device 3) (Smart Object ID=3)
+Code=1
+SGControlType=TSW-1070
+SGControlName=1281 (Device 3)
+GUID=BA636117-17B9-42FA-BCCB-8B72D11F5251
+SmplCName=Wellington_1281 (Device 3).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=1
+CedH=1
+SmartObjId=3d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=1
+Tp=1
+HD=TRUE
+DV=3d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=1
+Name=Wellington_1281 (Device 3).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Wellington_1281 (Device 2).ced
+Hint=1281 (Device 2) (Smart Object ID=2)
+Code=2
+SGControlType=TSW-1070
+SGControlName=1281 (Device 2)
+GUID=8AA1A5F0-886B-44E8-AE67-40E0818AE93D
+SmplCName=Wellington_1281 (Device 2).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=2
+CedH=2
+SmartObjId=2d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=2
+Tp=1
+HD=TRUE
+DV=2d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=2
+Name=Wellington_1281 (Device 2).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Wellington_1281 (Device 1).ced
+Hint=1281 (Device 1) (Smart Object ID=1)
+Code=3
+SGControlType=TSW-1070
+SGControlName=1281 (Device 1)
+GUID=EE0DB702-E5B8-4066-B495-FD2C1B3F39CB
+SmplCName=Wellington_1281 (Device 1).ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=99999
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=0
+MaxVariableInputs=0
+MinVariableOutputs=0
+MaxVariableOutputs=0
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=2
+MaxVariableInputsList3=2
+MinVariableOutputsList3=2
+MaxVariableOutputsList3=2
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Message_FB
+InputList3SigType2=Serial
+OutputList3Cue2=Message
+OutputList3SigType2=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=3
+CedH=3
+SmartObjId=1d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=3
+Tp=1
+HD=TRUE
+DV=1d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=3
+Name=Wellington_1281 (Device 1).ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Crestron DSP Routing Module v1.2.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Wellington_004.Audio_Media big dinning.ced
+Hint=Media big dinning (Smart Object ID=20)
+Code=4
+SGControlType=Media Player Application
+SGControlName=Media big dinning
+GUID=BE58CB27-C9CA-4578-94E1-3DB70FF57E76
+SmplCName=Wellington_004.Audio_Media big dinning.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=4
+CedH=4
+SmartObjId=20d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=4
+Tp=1
+HD=TRUE
+DV=20d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=4
+Name=Wellington_004.Audio_Media big dinning.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Wellington_005.Patio_Media Player Application.ced
+Hint=Media Player Application (Smart Object ID=21)
+Code=5
+SGControlType=Media Player Application
+SGControlName=Media Player Application
+GUID=00EBDB31-4110-4F54-9B94-19A26252B6FF
+SmplCName=Wellington_005.Patio_Media Player Application.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10040
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=3
+MaxVariableInputs=3
+MinVariableOutputs=3
+MaxVariableOutputs=3
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=3
+MaxVariableInputsList3=3
+MinVariableOutputsList3=3
+MaxVariableOutputsList3=3
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=Refresh
+InputSigType1=Digital
+OutputCue1=[~UNUSED3~]
+OutputSigType1=Digital
+InputCue2=Offline
+InputSigType2=Digital
+OutputCue2=[~UNUSED3~]
+OutputSigType2=Digital
+InputCue3=Use_Message
+InputSigType3=Digital
+OutputCue3=[~UNUSED3~]
+OutputSigType3=Digital
+InputList3Cue1=CRPC_FB
+InputList3SigType1=Serial
+OutputList3Cue1=CRPC
+OutputList3SigType1=Serial
+InputList3Cue2=Player_Name
+InputList3SigType2=Serial
+OutputList3Cue2=[~UNUSED3~]
+OutputList3SigType2=Serial
+InputList3Cue3=Message_FB
+InputList3SigType3=Serial
+OutputList3Cue3=Message
+OutputList3SigType3=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=5
+CedH=5
+SmartObjId=21d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=5
+Tp=1
+HD=TRUE
+DV=21d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=5
+Name=Wellington_005.Patio_Media Player Application.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+CedMod=Media Server Object Router v4.0.cmc
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=Wellington_001.password_Simple Keypad password.ced
+Hint=Simple Keypad password (Smart Object ID=30)
+Code=6
+SGControlType=Simple Keypad
+SGControlName=Simple Keypad password
+GUID=5BF0DE87-2B6E-47DA-ACEB-B2FE258CFEA0
+SmplCName=Wellington_001.password_Simple Keypad password.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10061
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=12
+MaxVariableInputs=12
+MinVariableOutputs=12
+MaxVariableOutputs=12
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=1
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=2
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=3
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=4
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=5
+OutputSigType5=Digital
+InputCue6=[~UNUSED3~]
+InputSigType6=Digital
+OutputCue6=6
+OutputSigType6=Digital
+InputCue7=[~UNUSED3~]
+InputSigType7=Digital
+OutputCue7=7
+OutputSigType7=Digital
+InputCue8=[~UNUSED3~]
+InputSigType8=Digital
+OutputCue8=8
+OutputSigType8=Digital
+InputCue9=[~UNUSED3~]
+InputSigType9=Digital
+OutputCue9=9
+OutputSigType9=Digital
+InputCue10=[~UNUSED3~]
+InputSigType10=Digital
+OutputCue10=0
+OutputSigType10=Digital
+InputCue11=[~UNUSED3~]
+InputSigType11=Digital
+OutputCue11=Misc_1
+OutputSigType11=Digital
+InputCue12=[~UNUSED3~]
+InputSigType12=Digital
+OutputCue12=Misc_2
+OutputSigType12=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=6
+CedH=6
+SmartObjId=30d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=6
+Tp=1
+HD=TRUE
+DV=30d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=6
+Name=Wellington_001.password_Simple Keypad password.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
